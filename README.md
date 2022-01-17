@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkpi-pm
-- 👀 I’m interested in F1
+- 👀 I follow F1 races
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on junior developer tasks
 - 📫 How to reach me: mkpi@pm.me
