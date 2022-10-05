@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkpi-pm
-- 🌱 I’m currently learning with Northcoders 
-- 💞️ I’m looking to collaborate on junior developer tasks
+- 🌱 I've recently graduated from Northcoders 
+- 💞️ I’m looking to collaborate on junior JavaScript developer tasks
 - 📫 How to reach me: mkpi@pm.me
 
 <!---
